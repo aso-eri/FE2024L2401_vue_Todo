@@ -55,8 +55,8 @@ body {
     justify-content: space-between;
 }
 
-.list-area .area-compleate,
-.list-area .area-incompleate {
+.list-area .area-complete,
+.list-area .area-incomplete {
     width: 470px;
 }
 
